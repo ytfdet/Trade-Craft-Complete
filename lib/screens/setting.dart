@@ -50,6 +50,8 @@ class Setting extends StatelessWidget {
                   SizedBox(height: 35),
                   buildContainer(Icons.info_outlined,'حول',),
                   SizedBox(height: 35),
+                  buildContainer(Icons.logout_outlined,'تسجيل الخروج',),
+                  SizedBox(height: 35),
 
                 ],
               ),
